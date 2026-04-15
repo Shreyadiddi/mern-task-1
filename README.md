@@ -9,8 +9,10 @@ This project demonstrates the connection between React frontend, Express backend
 - Data fetched from backend and displayed in frontend
 
 ## Output Screenshot
-<img src="./images/homepage.png" alt="Homepage" width="600"/>
+<img src="./images/backend.png" alt="Backend" width="600"/>
 
 ![Backend](./images/backend.png)
 
+
+<img src="./images/frontend.png" alt="Frontend" width="600"/>
 ![Frontend](./images/frontend.png)
